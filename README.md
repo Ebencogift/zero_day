@@ -1,2 +1,3 @@
-first work in git on windows
+grit on course
+
 
